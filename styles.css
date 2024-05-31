@@ -1,0 +1,9 @@
+* {
+    align-items: center;
+}
+
+div {
+    border-color: #fdfdff;
+    border-width: 2;
+    border-radius: 8;
+}
